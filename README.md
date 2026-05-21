@@ -1,5 +1,5 @@
 # Starfish
 
 
-This is my rial update/edit to the repository contents
+This is my trial update/edit to the repository contents
 
